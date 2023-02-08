@@ -43,5 +43,9 @@ Para cada país, estimamos el número mínimo de flujos migratorios requeridos p
 Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
 
 # *Principales tecnologías utilizadas*  
+<p align='center'>
+<img src = 'https://th.bing.com/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?pid=ImgDet&rs=1' height = 200>
+<img src = 'https://academia.crandi.com/wp-content/uploads/2021/06/canstockphoto13085820.jpg' height = 200>
+<p>
 
 # *Informes*
