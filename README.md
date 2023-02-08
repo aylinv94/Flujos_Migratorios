@@ -24,7 +24,7 @@
 + [3- Scope and its limitations.](#Scope-and-its-limitations)
 + [4- Main technologies used.](#Main-technologies-used)
 + [5- Reports.](#Reports)
-+ [6- Dasboard.](#Dashboard)
++ [6- Dashboard.](#Dashboard)
 + [7- Web y API.](#Web-y-API)
 <hr>
 
