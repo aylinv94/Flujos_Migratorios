@@ -35,15 +35,16 @@ The main idea is to study and analyze the reason for such migratory flows in the
 
 Here are the<a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong>that were requested to carry out this project satisfactorily
 
-# *Objetivos de trabajo* 
+# *Work Objectives* 
 
-Dado que los datos sobre el flujo migratorio suelen estar incompletos y no son comparables entre países, y nuestro objetivo principal es estudiar y analizar, estimamos el número de movimientos vinculando los cambios en los datos sobre el número de migrantes a lo largo del tiempo. Usando métodos estadísticos de datos faltantes, y de Ciencia de Datos, por lo cual estimamos los flujos de migrantes de año en año, incluso en lustros, que se requieren para cumplir con las diferencias en los totales de población de migrantes. Por ejemplo, si el número de nacidos en el extranjero en una región aumenta entre dos períodos de tiempo, estimamos los flujos migratorios mínimos entre esa región. en todas las regiones y todos los demás países del mundo que se requieren para cumplir con este aumento.
+Since data on migration flows are often incomplete and not comparable across countries, and our main goal is to study and analyze, we estimate the number of movements by linking changes in data on the number of migrants over time. Using statistical methods of missing data, and Data Science, for which we estimate the flows of migrants from year to year, even in decades, which are required to meet the differences in the totals of the migrant population. For example, if the number of foreign-born in a region increases between two time periods, we estimate the minimum migration flows between that region. in all regions and all other countries in the world that are required to meet this increase.
 
-Para cada país, estimamos el número mínimo de flujos migratorios requeridos para igualar las diferencias en las existencias asumiendo que es más probable que las personas se queden a que se muden. Este procedimiento de estimación se replica simultáneamente para los 196 países a fin de estimar en primer lugar la FODA y cada una de las tablas de flujo específicas del lugar estudiado, lo que da como resultado un conjunto comparable de flujos migratorios globales. Se modifican los conteos que población migrante para controlar los nacimientos y las muertes durante el período. Esto permite que nuestros flujos migratorios netos específicos de cada país coincidan estrechamente con las estimaciones de migración netas publicadas por las Naciones Unidas (como una de las fuentes de autoridad de los Datasets escogidos).
-# *Alcance y sus limitaciones* 
-Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
+For each country, we estimate the minimum number of migration flows required to equalize differences in stocks assuming that people are more likely to stay than move. This estimation procedure is replicated simultaneously for all 196 countries to first estimate the SWOT and each of the site-specific flow tables studied, resulting in a comparable set of global migration flows. The counts of the migrant population are modified to control births and deaths during the period. This allows our country-specific net migration flows to closely match net migration estimates published by the United Nations (as one of the sources of autoridad de los Datasets escogidos).
 
-# *Principales tecnologías utilizadas*  
+# *Scope and its limitations* 
+Data will be collected annually from 1990 to 2020.
+
+# *Main technologies used*  
 <p align='center'>
 <img src = 'https://th.bing.com/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?pid=ImgDet&rs=1' height = 100>
 <img src = 'https://academia.crandi.com/wp-content/uploads/2021/06/canstockphoto13085820.jpg' height = 100>
@@ -54,7 +55,7 @@ Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
 <img src = 'https://th.bing.com/th/id/R.c15998200967904850a611156c4d4d57?rik=MBqtw9X%2f5gfxMA&pid=ImgRaw&r=0' height = 100>
 <p>
 
-# *Informes*
+# *Reports*
  
  
  # *Dashboard*
