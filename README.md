@@ -24,7 +24,7 @@
 + [3- Alcance y sus limitaciones](#alcance-y-sus-limitaciones)
 + [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
 + [5- Informes.](#informes)
-+ [6- Dasboarb.](#Dashboard)
++ [6- Dasboard.](#Dashboard)
 + [7- Web y API.](#Web-y-API)
 <hr>
 
@@ -55,3 +55,8 @@ Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
 <p>
 
 # *Informes*
+ 
+ 
+ # *Dashboard*
+ 
+ # *Web y API*
