@@ -33,7 +33,7 @@ Migration flows "refer to the number of migrants entering or leaving a given cou
 
 The main idea is to study and analyze the reason for such migratory flows in the current context, with the possibility of performing Machine Learning Models, turning speculations about net numbers of migrations into determinants based on our AI models, about what you would gain or it would lose every nation from year to year and its possible causes.
 
-Here are the<a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong>that were requested to carry out this project satisfactorily
+Here are the <a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong>that were requested to carry out this project satisfactorily
 
 # *Work Objectives* 
 
