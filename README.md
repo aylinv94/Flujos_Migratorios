@@ -21,19 +21,19 @@
 ## **TABLE OF CONTENTS**  
 + [1- Introduction.](#Introduction) 
 + [2- Work objectives.](#Work-objectives)
-+ [3- Scope and its limitations](#Scope-and-its-limitations)
++ [3- Scope and its limitations.](#Scope-and-its-limitations)
 + [4- Main technologies used.](#Main-technologies-used)
-+ [5- Informes.](#informes)
++ [5- Reports.](#Reports)
 + [6- Dasboard.](#Dashboard)
 + [7- Web y API.](#Web-y-API)
 <hr>
 
-# *Introducción*
-Los flujos migratorios “se refieren al número de migrantes que entran o salen de un  determinado país  en un período  de  tiempo dado, por lo general un año”. Al captar los datos sobre los flujos migratorios son esenciales para entender los patrones de migración mundiales y el modo en que diferentes factores y políticas de los  países    de   origen  y  de  destino    pueden   estar    relacionados    con    esas    corrientes   migratorias.
+# *Introduction*
+Migration flows "refer to the number of migrants entering or leaving a given country in a given period of time, usually a year." Capturing data on migration flows is essential to understanding global migration patterns and how different factors and policies in countries of origin and destination may be related to these migration flows.
 
-La idea principal es estudiar y analizar el porqué de tales flujos migratorios en el contexto actual, con la posibilidad de realizar Modelos de Machine Learning,  convertir las especulaciones sobre cantidades netas de migraciones en determinantes basadas en nuestros modelos de IA, acerca de lo que ganaría o perdería cada nación de año en año y sus posibles causas. 
+The main idea is to study and analyze the reason for such migratory flows in the current context, with the possibility of performing Machine Learning Models, turning speculations about net numbers of migrations into determinants based on our AI models, about what you would gain or it would lose every nation from year to year and its possible causes.
 
-Aqui se muestran las <a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong> que fueron solicitadas para llevar a cabo este proyecto de manera satisfactoria
+Here are the<a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong>that were requested to carry out this project satisfactorily
 
 # *Objetivos de trabajo* 
 
