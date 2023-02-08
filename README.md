@@ -9,7 +9,7 @@
 <p>
 
 <hr>
-<h2 align="center">Colaboradores</h2>
+<h2 align="center">Collaborators</h2>
 
 <h3 align="center"><a href=https://github.com/Diemale>Diego Marcelo Ledesma</a></h3>
  <h3 align="center"><a href="https://github.com/Aylinv94">Aylin Veronica Sequera Celis</a></h3>
@@ -18,11 +18,11 @@
 <h3 align="center"><a href=https://github.com/DanielaCoVi>Daniela Berenice Contreras Villafuerte</a></h3>
 <hr>
 
-## **TABLA DE CONTENIDO**  
+## **TABLE OF CONTENTS**  
 + [1- Introduction.](#Introduction) 
-+ [2- Objetivos de trabajo.](#work-objectives)
-+ [3- Alcance y sus limitaciones](#alcance-y-sus-limitaciones)
-+ [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
++ [2- Work objectives.](#Work-objectives)
++ [3- Scope and its limitations](#Scope-and-its-limitations)
++ [4- Main technologies used.](#Main-technologies-used)
 + [5- Informes.](#informes)
 + [6- Dasboard.](#Dashboard)
 + [7- Web y API.](#Web-y-API)
