@@ -24,12 +24,12 @@
 + [3- Alcance y sus limitaciones](#alcance-y-sus-limitaciones)
 + [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
 + [5- Informes.](#informes)
-+ [6- Informes.](#Dashboard)
-+ [7- Informes.](#Web y API)
++ [6- Dasboarb.](#Dashboard)
++ [7- Web y API.](#Web-y-API)
 <hr>
 
 # *Introducción*
-Los flujos migratorios “se refieren al número de migrantes que entran o salen de un determinado país en un período de tiempo dado, por lo general un año”. Al captar los datos sobre los flujos migratorios son esenciales para entender los patrones de migración mundiales y el modo en que diferentes factores y políticas de los países de origen y de destino pueden estar relacionados con esas corrientes migratorias.
+Los flujos migratorios “se refieren al número de migrantes que entran o salen de un determinado país  en un período de  tiempo dado, por lo general un año”. Al captar los datos sobre los flujos migratorios son esenciales para entender los patrones de migración mundiales y el modo en que diferentes factores y políticas de los países de origen y de destino pueden estar relacionados con esas corrientes migratorias.
 
 La idea principal es estudiar y analizar el porqué de tales flujos migratorios en el contexto actual, con la posibilidad de realizar Modelos de Machine Learning,  convertir las especulaciones sobre cantidades netas de migraciones en determinantes basadas en nuestros modelos de IA, acerca de lo que ganaría o perdería cada nación de año en año y sus posibles causas. 
 
