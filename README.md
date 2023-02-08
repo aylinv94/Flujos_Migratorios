@@ -1,8 +1,8 @@
 <h1 align='center'>
- <b>PROYECTO GRUPAL</b>
+ <b>GROUP PROJECT</b>
 </h1>
  
-# <h1 align="center">**`FLUJOS MIGRATORIOS`**</h1>
+# <h1 align="center">**`MIGRATION FLOWS`**</h1>
 
 <p align='center'>
 <img src = 'https://www.bbva.com/wp-content/uploads/2016/12/ANUARIO-MIGRACI%C3%93N-1.jpg' height = 400>
@@ -19,8 +19,8 @@
 <hr>
 
 ## **TABLA DE CONTENIDO**  
-+ [1- Introducción.](#introducción) 
-+ [2- Objetivos de trabajo.](#objetivos-de-trabajo)
++ [1- Introduction.](#Introduction) 
++ [2- Objetivos de trabajo.](#work-objectives)
 + [3- Alcance y sus limitaciones](#alcance-y-sus-limitaciones)
 + [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
 + [5- Informes.](#informes)
