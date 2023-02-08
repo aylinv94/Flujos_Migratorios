@@ -24,7 +24,8 @@
 + [3- Alcance y sus limitaciones](#alcance-y-sus-limitaciones)
 + [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
 + [5- Informes.](#informes)
-
++ [6- Informes.](#Dashboard)
++ [7- Informes.](#Web y API)
 <hr>
 
 # *Introducción*
