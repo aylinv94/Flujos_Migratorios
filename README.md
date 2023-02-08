@@ -46,6 +46,8 @@ Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
 <p align='center'>
 <img src = 'https://th.bing.com/th/id/OIP.DYNJuYOGc_lgPwwBc3z0iQAAAA?pid=ImgDet&rs=1' height = 200>
 <img src = 'https://academia.crandi.com/wp-content/uploads/2021/06/canstockphoto13085820.jpg' height = 200>
+<img src = 'https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png' height = 200>
+<img src = 'https://th.bing.com/th/id/OIP.eTCbdR_AFzbqHMPXhrJWUQAAAA?pid=ImgDet&rs=1' height = 200>
 <p>
 
 # *Informes*
