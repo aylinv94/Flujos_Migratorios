@@ -36,6 +36,9 @@ Aqui se muestran las <a href="https://github.com/aylinv94/Flujos_Migratorios/blo
 
 # *Objetivos de trabajo* 
 
+Dado que los datos sobre el flujo migratorio suelen estar incompletos y no son comparables entre países, y nuestro objetivo principal es estudiar y analizar, estimamos el número de movimientos vinculando los cambios en los datos sobre el número de migrantes a lo largo del tiempo. Usando métodos estadísticos de datos faltantes, y de Ciencia de Datos, por lo cual estimamos los flujos de migrantes de año en año, incluso en lustros, que se requieren para cumplir con las diferencias en los totales de población de migrantes. Por ejemplo, si el número de nacidos en el extranjero en una región aumenta entre dos períodos de tiempo, estimamos los flujos migratorios mínimos entre esa región. en todas las regiones y todos los demás países del mundo que se requieren para cumplir con este aumento.
+
+Para cada país, estimamos el número mínimo de flujos migratorios requeridos para igualar las diferencias en las existencias asumiendo que es más probable que las personas se queden a que se muden. Este procedimiento de estimación se replica simultáneamente para los 196 países a fin de estimar en primer lugar la FODA y cada una de las tablas de flujo específicas del lugar estudiado, lo que da como resultado un conjunto comparable de flujos migratorios globales. Se modifican los conteos que población migrante para controlar los nacimientos y las muertes durante el período. Esto permite que nuestros flujos migratorios netos específicos de cada país coincidan estrechamente con las estimaciones de migración netas publicadas por las Naciones Unidas (como una de las fuentes de autoridad de los Datasets escogidos).
 # *Alcance y sus limitaciones* 
 Los datos se recopilaran anualmente a partir del anio 1990 hasta el 2020
 
