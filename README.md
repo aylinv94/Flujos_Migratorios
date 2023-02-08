@@ -30,7 +30,7 @@
 # *Introducción*
 Los flujos migratorios “se refieren al número de migrantes que entran o salen de un determinado país en un período de tiempo dado, por lo general un año”. Al captar los datos sobre los flujos migratorios son esenciales para entender los patrones de migración mundiales y el modo en que diferentes factores y políticas de los países de origen y de destino pueden estar relacionados con esas corrientes migratorias.
 
-La idea principal es documentar y predecir las cantidades netas de migraciones y asi determinar lo que ganaría o perdería cada país el siguiente año y sus posibles causas. 
+La idea principal es estudiar y analizar el porqué de tales flujos migratorios en el contexto actual, con la posibilidad de realizar Modelos de Machine Learning, hacer lo posible de convertir las especulaciones sobre cantidades netas de migraciones en determinantes acerca de lo que ganaría o perdería cada nación el siguiente año y sus posibles causas. 
 
 Aqui se muestran las <a href="https://github.com/aylinv94/Flujos_Migratorios/blob/main/Consignas.md">consignas</a> </strong> que fueron solicitadas para llevar a cabo este proyecto de manera satisfactoria
 
