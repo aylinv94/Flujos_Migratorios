@@ -321,3 +321,4 @@
 ### Concise Filters.
 ### Concise sections that explain the data flow as they detail the data like a dictionary.
 ### Visual support plus short but informative texts to determine the type of product they offer is a factor that is present on all these platforms.
+### Language filters are always provided.
