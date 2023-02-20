@@ -50,7 +50,7 @@
 <img src="imagen\amnesty international.png"  height=300>
 </p>
 <p align="center">
-<img src="imagen\amnesty2.png"  height=300>
+<img src="[imagen\amnesty2.png](https://github.com/aylinv94/Flujos_Migratorios/blob/main/Imagen/amnesty2.png)"  height=300>
 </p>
 <p align="center">
 <img src="imagen\amnesty3.png"  height=300>
