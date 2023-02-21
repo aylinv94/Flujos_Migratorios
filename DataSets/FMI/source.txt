@@ -1,0 +1,2 @@
+https://data.imf.org/?sk=471DDDF8-D8A7-499A-81BA-5B332C01F8B9
+Self-made based on data provided by the IMF Primary Commodity Price System.

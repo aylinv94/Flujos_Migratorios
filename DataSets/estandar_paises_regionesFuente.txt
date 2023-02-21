@@ -1,0 +1,6 @@
+dataset_paises_regiones
+
+fuente:
+https://unstats.un.org/unsd/methodology/m49/overview/
+
+Dataset utilizado para normalizar los nombres de los países en nuestro proyecto.
