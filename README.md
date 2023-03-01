@@ -13,7 +13,7 @@
 
 <h3 align="center"><a href=https://github.com/Diemale>Diego Marcelo Ledesma</a></h3>
  <h3 align="center"><a href="https://github.com/Aylinv94">Aylin Veronica Sequera Celis</a></h3>
-<h3 align="center"><a href=https://github.com/MonicaV84 >Mónica virginia Ramos Dávila</a></h3>
+<h3 align="center"><a href=https://github.com/MonicaV84 >Mónica Virginia Ramos Dávila</a></h3>
 <h3 align="center"><a href=https://github.com/Armegas)>Nelson Alejandro Castro Andrews</a></h3>
 <h3 align="center"><a href=https://github.com/DanielaCoVi>Daniela Berenice Contreras Villafuerte</a></h3>
 <hr>
