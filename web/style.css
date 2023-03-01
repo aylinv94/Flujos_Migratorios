@@ -1,0 +1,202 @@
+#index {
+    background-image: url("fondo.jpg");
+    background-color: #cccccc;
+    background-position: center;
+   }
+
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    color: #084A22;
+}
+h3 {
+    padding-top: 100px;
+}
+#card{
+    background-color: rgba(16, 68, 16, 0.6);
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-inline-start: auto;
+    margin-top: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+
+#card1{
+    background-color: rgba(16, 68, 16, 0.6);
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-inline-end: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+#card2{
+    background-color: rgba(16, 68, 16, 0.6);
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-inline-start: auto;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#firstHalf{
+    background-image: url("mujerconbebe.jpg");
+}
+
+#proyecto{
+    background-image: url("compu.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+
+}
+
+#card3{
+    background-color: rgba(16, 68, 16, 0.7);
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-inline-end: auto;
+    margin-top: 60px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+#card4{
+    background-color: rgba(16, 68, 16, 0.7);
+    width: 600px;
+    max-height: fit-content;
+    align-items: center;
+    justify-content: center;
+    margin-inline-start: auto;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+#card5{
+    background-color: rgba(16, 68, 16, 0.9);
+    
+    align-items: center;
+    justify-content: center;
+    margin-inline-end: auto;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+#comunidad_migrante{
+    background-image: url("valija.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#card6{
+    background-color: rgba(16, 68, 16, 0.8);
+    align-items: center;
+    justify-content: center;
+    margin-inline-end: auto;
+    margin-top: 250px;
+    text-align: justify;
+}
+
+#first-text{
+    color: white;
+    width: 700px;
+}
+
+#run{
+    background-image: url("run.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#text-run{
+    background-color: rgba(16, 68, 16, 0.7);
+    color: white;
+    position: absolute;
+    margin-top: 300px;
+    width: 100%;    
+}
+#voluntarios{
+    background-image: url("arbol.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#card7{
+    background-color: rgba(16, 68, 16, 0.8);
+    align-items: center;
+    justify-content: center;
+    margin-inline-end: auto;
+    margin-top: 200px;
+    text-align: justify;
+}
+#donaciones{
+    background-image: url("donaciones1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#donaciones1{
+    background-color: rgba(16, 68, 16, 0.7);
+    color: white;
+    position: absolute;
+    margin-top: 500px;
+    width: 900px;
+    margin-left: 450px;
+    margin-right: auto;
+}
+
+#descarga{
+    background-image: url("donaciones2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#donaciones2{
+    background-color: rgba(16, 68, 16, 0.7);
+    color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    margin-right: auto;
+    width: 600px;
+    
+}
+
+#contacto{
+    background-image: url(contacto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#form{
+    margin: auto; 
+    background-color:rgba(16, 68, 16, 0.3);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#datos{
+    background-color:rgba(16, 68, 16, 0.2) ;
+}
+
+#titulo_datos{
+    color: #084A22;
+    text-align: center;
+    justify-content: center;
+}
+#grafico1{
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
